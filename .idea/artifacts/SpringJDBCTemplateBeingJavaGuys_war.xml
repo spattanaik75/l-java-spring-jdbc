@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="SpringJDBCTemplateBeingJavaGuys:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SpringJDBCTemplateBeingJavaGuys.war">
+      <element id="artifact" artifact-name="SpringJDBCTemplateBeingJavaGuys:war exploded" />
+    </root>
+  </artifact>
+</component>
